@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353236779177",
+    "project_id": "taksi-buddy",
+    "storage_bucket": "taksi-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353236779177:android:162fd773098a551dba29b8",
+        "android_client_info": {
+          "package_name": "com.example.taksibuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353236779177-ds9j71idh7g4ekeov5ckvnpjga2kbkm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taksibuddy",
+            "certificate_hash": "c21f7f9195d48b28c579b1cbfaacdb0664be6da7"
+          }
+        },
+        {
+          "client_id": "353236779177-2ds6s08uhc23aifem8pgu49g884547ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPmzgX3kbFGPLRcxfWAC6s8-mxRGhMvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353236779177-2ds6s08uhc23aifem8pgu49g884547ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
